@@ -20,9 +20,6 @@ flutter:
       web:
         pluginClass: SharePlusWebPlugin
         fileName: src/share_plus_web.dart
-      windows:
-        dartPluginClass: SharePlusWindowsPlugin
-        pluginClass: SharePlusWindowsPluginCApi
 
 dependencies:
   cross_file: ^0.3.3+4
